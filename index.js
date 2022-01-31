@@ -19,5 +19,5 @@ if (randomNumber1 > randomNumber2) {
 
 var btn = document.querySelector("btn");
 btn.addEventListener("click",() => {
-    btn.setAttribute("a", "./index.js")
-})
+    btn.setAttribute("a", "./index.html")
+});
